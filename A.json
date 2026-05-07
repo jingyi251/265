@@ -143,15 +143,11 @@
       "changeable": 1
     },
     {
-      "key": "麻雀",
-      "name": "🏆｜麻雀｜藍光◎秒播",
-      "type": 4,
-      "api": "http://115.191.55.109:8080/video/qqqys?token=47f318660fa5ca46",
-      "jar": "./jar/mi-0213.jar;md5;c4def4496c2e1a0959c8fedfaff41488",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1
+      "key": "金牌影视",
+      "name": "🏆｜金牌｜秒播◎無廣",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
     {
       "key": "drpyS_永乐视频[优]",
